@@ -1,4 +1,4 @@
-## Introduction & Architectures 
+# Introduction & Architectures 
 
 #### Table of Contents:
 - [BitShares Architecture  ](#bitshares-architecture--github-repositories-and-entities)
@@ -8,12 +8,12 @@
 
 Welcome to BitShares! In this section, you will find the overview of BitShares Architecture (repositories and entities), and how the Core team processes the development work.  If you are interested in contributing to the Core team, you might want to check the Contribution Guide and the GitFlow to understand how BitShares-Core team handles the repository files and branches.  If you would like to know the Core team current project, issues, and the releases plans, check under the Issues and the Projects tabs.
 
-### BitShares Architecture – GitHub Repositories and Entities
+## BitShares Architecture – GitHub Repositories and Entities
 - [GitHub Repositories and Entities with a guide (pdf)](../knowledge_base/shared_files/BitShares_Architecture-V3.pdf) 
 
 ![BitShares Architecture](../imgs/structure/bitshares-architecture-v3notop.png)
 
-### Observe BitShares blockchain transaction and performance
+## Observe BitShares blockchain transaction and performance
 
 #### Bitshares Block Exploer
 BitShares Exploere shows BitShares Blockchain information. You can observe BitShares Blockchain *Health* Status (head_block_num, head_block_age, chain_id, etc), how transactions processing, assets volume, members, etc.
@@ -29,7 +29,7 @@ Blockchain Activity Matrix shows defferent tokens (assets) *Activity*, *Value*, 
 
 - http://blocktivity.info/
 
-### BitShares System Features
+## BitShares System Features
 
 BitShares is a Finance Smart contract platform supported by Graphene technology - Blockchain.  
 BitShares is designed from the ground up to process more transactions every second than VISA and MasterCard combined.
