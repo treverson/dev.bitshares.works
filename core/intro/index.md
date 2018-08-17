@@ -13,7 +13,7 @@ Welcome to BitShares! In this section, you will find the overview of BitShares A
 
 ![BitShares Architecture](../imgs/structure/bitshares-architecture-v3notop.png)
 
-## Observe BitShares blockchain transaction and performance
+## Observe BitShares Blockchain Transaction and Performance
 
 #### Bitshares Block Exploer
 BitShares Exploere shows BitShares Blockchain information. You can observe BitShares Blockchain *Health* Status (head_block_num, head_block_age, chain_id, etc), how transactions processing, assets volume, members, etc.
@@ -29,7 +29,7 @@ Blockchain Activity Matrix shows defferent tokens (assets) *Activity*, *Value*, 
 
 - http://blocktivity.info/
 
-## BitShares System Features
+## BitShares System and the Features
 
 BitShares is a Finance Smart contract platform supported by Graphene technology - Blockchain.  
 BitShares is designed from the ground up to process more transactions every second than VISA and MasterCard combined.
@@ -43,8 +43,36 @@ BitShares is designed from the ground up to process more transactions every seco
 - Avoid synchronization primitives (locks, atomic operations)
 - Minimize unnecessary computation in the business logic processor.
 	
-BitShares is built to aim high-performance blockchain and has been done to remove all calculations that are not part of the critical, order-dependent, evaluation from the core business logic, and to design a protocol the facilitates these kinds of optimizations
+BitShares is built to aim high-performance blockchain and has been done to remove all calculations that are not part of the critical, order-dependent, evaluation from the core business logic, and to design a protocol the facilitates these kinds of optimizations.
+
+### BitShares Available Features
+BitShares can be made to function as a software, a network, a ledger, a bank, an exchange, and a currency all at once. (e.g., It can fulfill the role of a bank by maintaining a distributed ledger that tracks debt collateralized by other assets. You can find out that BitShares offers numerous features that are not available on other populer blockchain platform.
 
 
+- **Decentralized Exchange** - BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. 
+- Trading / Financial Services 
+- Dynamic Account Permissions
+- Multi-user control for account
+- Two authorities: owner and active
+- Transaction + multi signature
+- Proposed transaction infrastructure
+  - (witch tracks partially approved transactions)
+-Fees caluculation
+  - Transaction fee
+  - Fee Schedules
+- Assets
+  - MPA
+  - UIA 
+   - *Use Cases* (privatized SmartCoins, Mredictions Market)
+    - How to profit? 
+      - Fee pools
+- BitAsset - BitUSD,       
+- SmartCoins
+  - Merchant
+  - Blackswans
+ - DPOS - Under DPOS, BTS Holder has influence...
+ -Referral Program
+ - Vesting valance
+- **Decentralized Exchange** - BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. 
 
 
