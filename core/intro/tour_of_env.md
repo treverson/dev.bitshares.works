@@ -25,12 +25,12 @@
 ### Project Management
  - **BitShares-Core (Team)**
 This is a team of developers who manage BitShares-Core code updates and handle the issues that are submitted by developers. The team creates a project plan of next release and delivers to the Bitshares community about the Project information. 
-  **Roles** 
-  - improving
-  - maintaining
-  - upgrading protocol if needed
-  - making Project plans for the future release
-  - creating/ announcing  Release 
+  - **Roles** 
+    - improving
+    - maintaining
+    - upgrading protocol if needed
+    - making Project plans for the future release
+    - creating/ announcing  Release 
 
 ## BitShares Core Code Management - GitFlow
 This section describes and defines how changes flow into our code and through the various stages of development until it finally goes into production.
