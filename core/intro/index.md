@@ -51,28 +51,29 @@ BitShares can be made to function as a software, a network, a ledger, a bank, an
 
 - **Decentralized Exchange** - BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. 
 - Trading / Financial Services 
+- Transferable Named Account (human-friendly account name)
+- Globally unique account name and ID.
 - Dynamic Account Permissions
 - Multi-user control for account
-- Two authorities: owner and active
-- Transaction + multi signature
-- Proposed transaction infrastructure
-  - (witch tracks partially approved transactions)
+- Two authorities: owner and active keys
+- Transaction + multi-signature authority
+- **Proposed transaction infrastructure** - witch tracks partially approved transactions.
+  - It can be used for a schedules payment
 -Fees caluculation
   - Transaction fee
   - Fee Schedules
 - Assets
-  - MPA
-  - UIA 
-   - *Use Cases* (privatized SmartCoins, Mredictions Market)
-    - How to profit? 
-      - Fee pools
+  - **User Issues Asset (UIA)** - to help faciltate profitable business models for certain typs of services.
+   - *Use Cases* (Event tickets, Reward points, privatized SmartCoins, Mredictions Market, more...)
+    - How to profit? -> Fee pools
 - BitAsset - BitUSD,       
 - SmartCoins
   - Merchant
   - Blackswans
- - DPOS - Under DPOS, BTS Holder has influence...
- -Referral Program
+ - **Delegated Proof of State Concensus (DPOS)** - Under DPOS, BTS Holder has influence...
+   - A rubst and flexible concensus protocol.
+ - Block Production by Elected witnesses
+ - Referral Program
  - Vesting valance
-- **Decentralized Exchange** - BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. 
 
 
