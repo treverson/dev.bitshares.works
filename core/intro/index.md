@@ -48,8 +48,9 @@ BitShares is built to aim high-performance blockchain and has been done to remov
 ### BitShares Available Features
 BitShares can be made to function as a software, a network, a ledger, a bank, an exchange, and a currency all at once. (e.g., It can fulfill the role of a bank by maintaining a distributed ledger that tracks debt collateralized by other assets. You can find out that BitShares offers numerous features that are not available on other populer blockchain platform.
 
-
+- **SmartCoins** are fungible, divisible and free from any restrictions. A SmartCoin is a cryptocurrency whose value is pegged to that of another asset, such as thr US Dollar or gold. SmartCoins implement the concept of collateralized loan and offer it on the blockchain.
 - **Decentralized Exchange** - BitShares provides a high-performance decentralized exchange, with all the features you would expect in a trading platform. 
+  - Secure: All of the trserves are kept as BTS held on the blockchain, and they cannot be stolen, because there are no private keys that can be compromized to steal the reserves.
 - Trading / Financial Services 
 - Transferable Named Account (human-friendly account name)
 - Globally unique account name and ID.
@@ -67,10 +68,7 @@ BitShares can be made to function as a software, a network, a ledger, a bank, an
    - *Use Cases* (Event tickets, Reward points, privatized SmartCoins, Mredictions Market, more...)
     - How to profit? -> Fee pools
 - BitAsset - BitUSD,       
-- SmartCoins
-  - Merchant
-  - Blackswans
- - **Delegated Proof of State Concensus (DPOS)** - Under DPOS, BTS Holder has influence...
+- **Delegated Proof of State Concensus (DPOS)** - Under DPOS, BTS Holder has influence...
    - A rubst and flexible concensus protocol.
  - Block Production by Elected witnesses
  - Referral Program
