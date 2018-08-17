@@ -28,7 +28,7 @@
 - [Contribution Guide Project](https://github.com/bitshares/bitshares-core/projects/6)
 
 
-**BitShares-Core (Team)**
+**BitShares-Core (Team) :**
 This is a team of developers who manage BitShares-Core code updates and handle the issues that are submitted by developers. The team creates a project plan of next release and delivers to the Bitshares community about the Project information. 
   - **Roles** 
     - improving
