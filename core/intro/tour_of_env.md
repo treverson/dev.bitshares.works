@@ -13,16 +13,16 @@
 - Open Source program
 - Language uses (mainly): BitShares-Core(C++), python
 - BitShares GitHub 
-  - BitShares-Core (C++)
-  - Bitshares-FC
-  - BitShares python
-  - BitShares-UI
-  - BitSharesjs
-  - BitSharesjs-ws
+  - **BitShares-Core (C++)** - BitShares Blockchain implementation and command-line interface.
+  - **Bitshares-FC** - Fast-compiling C++ library 
+  - **BitShares python** - Fully featured client-side library for the BitShares Blockchain - written entirely in python.
+  - **BitShares-UI** - Fully featured Graphical User Interface / Reference Wallet for the BitShares Blockchain.
+  - **BSIPs** - BitShares Improvement Proposals and Protocols. These technical documents describe the process of updating and improving the BitShares blockchain and technical ecosystem.
+  - **BitSharesjs** - JavaScript tools for BitShares Encryption and Serialization.
+  - **BitSharesjs-ws** - Javascript websocket interface for Bitshares 
   - more
- - BitShares-Core repository
-	  - BitShares Blockchain implementation and command-line interface
-    - There are branches to select for a development
+
+### Project Management
  - BitShares-Core (Team)
  This is a team of developers who work on the issues those are submitted by developers. The team make a plan of next release and communicate to the Bitshares community about the Project plan. 
 	  **Roles** 
