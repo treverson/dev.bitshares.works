@@ -22,8 +22,13 @@
   - **BitSharesjs-ws** - Javascript websocket interface for Bitshares 
   - more
 
-## Project Management
- - **BitShares-Core (Team)**
+
+## BitShares Core Projects Guide
+- [Contribution Guide](../intro/contribution_guide.md#contribution-guide) [DRAFT]
+- [Contribution Guide Project](https://github.com/bitshares/bitshares-core/projects/6)
+
+
+**BitShares-Core (Team)**
 This is a team of developers who manage BitShares-Core code updates and handle the issues that are submitted by developers. The team creates a project plan of next release and delivers to the Bitshares community about the Project information. 
   - **Roles** 
     - improving
