@@ -1,8 +1,8 @@
 # Tour of the BitShares Environment
 
 #### Table of Contents:
-- 
-- 
+- Development Environments and Requirements
+- BitShares Core Code Management - GitFlow 
 - 
 - 
 
@@ -23,14 +23,14 @@
   - more
 
 ### Project Management
- - BitShares-Core (Team)
- This is a team of developers who work on the issues those are submitted by developers. The team make a plan of next release and communicate to the Bitshares community about the Project plan. 
-	  **Roles** 
-	  - improving
-	  - maintaining
-	  - upgrading protocol if needed
-	  - making Project plans for the future release
-    - creating/ announcing  Release 
+ - **BitShares-Core (Team)**
+This is a team of developers who manage BitShares-Core code updates and handle the issues that are submitted by developers. The team creates a project plan of next release and delivers to the Bitshares community about the Project information. 
+  **Roles** 
+  - improving
+  - maintaining
+  - upgrading protocol if needed
+  - making Project plans for the future release
+  - creating/ announcing  Release 
 
 ## BitShares Core Code Management - GitFlow
 This section describes and defines how changes flow into our code and through the various stages of development until it finally goes into production.
