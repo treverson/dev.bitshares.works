@@ -1,8 +1,8 @@
 # Introduction & Architectures 
 
 #### Table of Contents:
-- [BitShares Architecture  ](#bitshares-architecture--github-repositories-and-entities)
-- Observe BitShares Blockchain Transaction and Performance
+- [BitShares Architecture](#bitshares-architecture--github-repositories-and-entities)
+- [Observe BitShares Blockchain Transaction and Performance](#observe-bitshares-blockchain-transaction-and-performance)
 - BitShares System and the Features
 
 ***
