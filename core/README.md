@@ -14,11 +14,20 @@ Documentation related to BitShares Core internals and development fundamentals.
 - BitShares Node
   - Types of Nodes
 - References
- - Doxygen Documentation
+  - Doxygen Documentation
 - [Knowledge Bases](../core/knowledge_base#knowledge-base)
   - Assets,Transactions, Witness, Protocals, etc
 
 
+***
+## Getting Start
+
+- Docker Container (Option)
+- Install and Build
+- Configure a Node
+- Cli Wallet
+- TestNet
+- BitShares API
 
 
 ***
