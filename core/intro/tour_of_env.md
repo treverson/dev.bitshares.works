@@ -1,7 +1,7 @@
 # Tour of the BitShares Environment
 
 #### Table of Contents:
-- Development Environments and Requirements
+- [Development Environments and Requirements](#development-environments-and-requirements)
 - BitShares Core Projects Guide
 - BitShares Core Code Management - GitFlow 
 
@@ -19,7 +19,7 @@ Another option, Windows SubSystem for Linux (WSL).  This is for a developer who 
 
 > See [System Requirements](../nodes_full_witness/full_nodes.md#system-requirements) to run a node (updated: 2018-07-02).
 
-### BitShares Programs anf files 
+### BitShares Programs and files 
 
 - Open Source program
 - Language uses (mainly): BitShares-Core(C++), python
