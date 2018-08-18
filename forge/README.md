@@ -2,11 +2,13 @@
 
 ## Use cses/Integrations
 
-- Set up a Witness Node
 - Tutorials
-- [Use Cases](../forge/use_cases/README.md#use-cases)
-  - Running a Gateway,Exchange Integration, Accepting payments, etc
-- Exchange Integration
+- Set up a Witness Node
+- [Exchange Integration](../use_cases/exchange-integration.md#exchange-integration)
+- [Merchant - Wallet Login Protocol](../../core/knowledge_base/protocols/merchant_login.md#merchant)
+- [Merchant - Wallet Privacy Protocol](../../core/knowledge_base/protocols/merchant_privacy.md#merchant)
+- [Traders](../use_cases/traders.md#traders)
+- [Using White and Black Lists](../../core/knowledge_base/white_black_lists.md#using-white-and-black-lists)
 - Gateway
 
 
