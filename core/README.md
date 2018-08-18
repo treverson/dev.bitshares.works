@@ -19,7 +19,7 @@ Documentation related to BitShares Core internals and development fundamentals.
   - Assets,Transactions, Witness, Protocals, etc
 
 
-***
+
 ## Getting Started
 
 - Docker Container (Option)
