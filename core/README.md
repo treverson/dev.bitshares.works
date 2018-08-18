@@ -1,7 +1,7 @@
 # BitShares Core
 Documentation related to BitShares Core internals and development fundamentals.
 
-# BitShares Guide
+## BitShares Guide
 
 -  [Introduction/Architectures](../core/intro/README.md#introduction--architectures)
   - BitShares Core Workflow (Project / Issues) , BitShares Core Repository Gitflow
