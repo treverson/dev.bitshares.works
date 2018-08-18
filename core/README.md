@@ -1,4 +1,4 @@
-# BitShares Core
+#### BitShares Core
 Documentation related to BitShares Core internals and development fundamentals.
 
 ## BitShares Guide
