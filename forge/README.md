@@ -4,6 +4,8 @@
 
 - Set up a Witness Node
 - Tutorials
+- [Use Cases](../forge/use_cases/README.md#use-cases)
+  - Running a Gateway,Exchange Integration, Accepting payments, etc
 - Exchange Integration
 - Gateway
 
@@ -25,9 +27,6 @@
   - Websockets Scripting, Python Library. etc
 
 
-- API – query
-- Tools
-- Libraries
 
 
 
