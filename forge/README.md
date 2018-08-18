@@ -15,7 +15,16 @@
 - Node (for API services)
 
 #### Supports
-- plugins
+- [Plugins](../forge/plugins/README.md#plugins)
+  - ElasticSearch, Memory Reduction, ...
+- [API Support & References](../forge/api_support/README.md#api-support)
+  - Explorer and the Wrappers, JSON, RPC, REST, etc
+- [SDKs/Tools](../forge/sdk_tools/README.md#sdks--tools)
+  - Docker, bitsharesjs, bitsharesjs-ws, "what-if" tests, monitoring tools. 
+- [Programs & Libraries](../forge/program_libraries/README.md#programs--libraries)
+  - Websockets Scripting, Python Library. etc
+
+
 - API – query
 - Tools
 - Libraries
