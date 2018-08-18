@@ -9,7 +9,7 @@
 
 ## Development Environments and Requirements
 
-BitShares offers you to install BitShares-Core into different platforms; **Ubuntu (x64), OSx, and Windows**.  There are  dependencies to check when you download OpenSSL and  Boost. Please make sure which versions you downloaded. 
+BitShares offers you to install BitShares-Core into different platforms; **Linux:Ubuntu (x64), OSx, and Windows**.  There are  dependencies to check when you download OpenSSL and  Boost. Please make sure which versions you downloaded. 
 
 Also, if you are a Windows user, you have other two choices to install BitShares Core to your Windows (x64) Operation System.  One is **CLI-Wallet tools for Windows (x64)**, another is **Windows SubSystem for Linux (WSL)**.  
 
