@@ -3,24 +3,20 @@ Documentation related to BitShares Core internals and development fundamentals.
 
 # BitShares Guide
 
-#### [Introduction/Architectures](../core/intro/README.md#introduction--architectures)
-- BitShares Core Workflow (Project / Issues) , BitShares Core Repository Gitflow
-
-#### Tour  of the BitShares Environment
-
-#### [BitShares Accounts](../core/accounts/README.md#accounts)
-- Accounts, Memberships, Fees, Permissions, Authorities, Referral Program,Voting, Account Registration  
-
-#### [System Components Structures and Descriptions](../core/components/README.md#components-structures-and-descriptions)
- - Block structure, operations, evaluators, objects
- 
-#### BitShares Node
-
-#### References
-
-
-### [Knowledge Bases](../core/knowledge_base#knowledge-base)
-- Assets,Transactions, Witness, Protocals, etc
+-  [Introduction/Architectures](../core/intro/README.md#introduction--architectures)
+  - BitShares Core Workflow (Project / Issues) , BitShares Core Repository Gitflow
+- Tour  of the BitShares Environment
+  - b
+- [BitShares Accounts](../core/accounts/README.md#accounts)
+  - Accounts, Memberships, Fees, Permissions, Authorities, Referral Program,Voting, Account Registration  
+- [System Components Structures and Descriptions](../core/components/README.md#components-structures-and-descriptions)
+  - Block structure, operations, evaluators, objects
+- BitShares Node
+  - Types of Nodes
+- References
+ - Doxygen Documentation
+- [Knowledge Bases](../core/knowledge_base#knowledge-base)
+  - Assets,Transactions, Witness, Protocals, etc
 
 
 
