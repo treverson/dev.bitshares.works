@@ -1,5 +1,31 @@
 # BitShares Developers Forge
 
+## Use cses/Integrations
+
+- Set up a Witness Node
+- Tutorials
+- Exchange Integration
+- Gateway
+
+
+## Optimizations/Supports
+
+#### Oprimizations
+- Node (for witnesses)
+- Node (for API services)
+
+#### Supports
+- plugins
+- API – query
+- Tools
+- Libraries
+
+
+
+
+
+***
+***
 
 BitShares Developers Forge is a collaboration place supported by the BitShares Community to allow the developers to take advantage the leading tools in the project and development.
 
