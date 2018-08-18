@@ -20,7 +20,7 @@ Documentation related to BitShares Core internals and development fundamentals.
 
 
 ***
-## Getting Start
+## Getting Started
 
 - Docker Container (Option)
 - Install and Build
