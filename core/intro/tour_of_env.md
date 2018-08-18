@@ -9,6 +9,18 @@
 
 ## Development Environments and Requirements
 
+BitShares offers you to install BitShares-Core into different platforms; **Ubuntu (x64), OSx, and Windows**.  There are  dependencies to check when you download OpenSSL and  Boost. Please make sure which versions you downloaded. 
+
+Also, if you are a Windows user, you have other two choices to install BitShares Core to your Windows (x64) Operation System.  One is **CLI-Wallet tools for Windows (x64)**, another is **Windows SubSystem for Linux (WSL)**.  
+
+The CLI-wallet tools for Windows (x64) allows you to try several methods to get the data from BitShares blockchain without the BitShares Core installation. After you download the cli-wallet tools, you will find a cli_wallet executable to try Wallet API. 
+
+Another option, Windows SubSystem for Linux (WSL).  This is for a developer who uses a Windows 10 (x64) Operation System and wants to build BitShares Core on Ubuntu. 
+
+> See [System Requirements](../nodes_full_witness/full_nodes.md#system-requirements) to run a node (updated: 2018-07-02).
+
+#### BitShares Programs anf files 
+
 - Open Source program
 - Language uses (mainly): BitShares-Core(C++), python
 - BitShares GitHub 
@@ -20,8 +32,8 @@
   - **BitSharesjs** - JavaScript tools for BitShares Encryption and Serialization.
   - **BitSharesjs-ws** - Javascript websocket interface for Bitshares 
   - more
-
-
+  
+  
 ## BitShares Core Projects Guide
 - [Contribution Guide](../intro/contribution_guide.md#contribution-guide) [DRAFT]
 - [Contribution Guide Project](https://github.com/bitshares/bitshares-core/projects/6)
