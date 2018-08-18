@@ -2,8 +2,8 @@
 
 #### Table of Contents:
 - [Development Environments and Requirements](#development-environments-and-requirements)
-- BitShares Core Projects Guide
-- BitShares Core Code Management - GitFlow 
+- [BitShares Core Projects Guide](#bitshares-core-projects-guide)
+- [BitShares Core Code Management - GitFlow ](#bitshares-core-code-management---gitflow)
 
 ***
 
